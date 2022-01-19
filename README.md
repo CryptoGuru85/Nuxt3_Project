@@ -2,15 +2,7 @@
 Nuxt 3 with Firebase services
 </h2><br>
 
-<pre align="center">
-🧪 Working in Progress
-</pre>
 
-<p align="center">
-<br>
-<a href="https://zemunkh-418ce.web.app/">🖥 Online Preview</a>
-<br><br>
-</p>
 
 ## Features
 
